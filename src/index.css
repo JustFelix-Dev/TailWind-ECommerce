@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+::-webkit-scrollbar{
+  width: .5rem;
+}
+::-webkit-scrollbar-track{
+  @apply bg-white
+}
+::-webkit-scrollbar-thumb{
+ @apply bg-red-800;
+}
+
+.block{
+  @apply bg-red-800 text-white w-24 px-2 cursor-pointer mt-2 hover:bg-red-600
+
+}
+
+.card {
+  @apply bg-white rounded-lg overflow-hidden shadow-lg relative;
+}
+
+.badge{
+  @apply bg-gray-300 text-xs rounded-full px-2 py-0.5 absolute top-0 m-1;
+}
+
+.btn{
+  @apply  py-0.5 px-3  text-sm cursor-pointer tracking-wider select-none;
+}
