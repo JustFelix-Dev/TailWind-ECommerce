@@ -15,7 +15,7 @@ A simple e-commerce web page showcasing a variety of African dishes. This page i
 
 ## Demo
 
-You can explore the African Dishes E-commerce Page by visiting [this link](https://your-e-commerce-page-link.com).
+You can explore the African Dishes E-commerce Page by visiting [this link](https://tail-wind-e-commerce.vercel.app/).
 
 ## Features
 
